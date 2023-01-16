@@ -1,0 +1,23 @@
+body{
+    padding: 50px 100px;
+
+}
+h1{
+    text-align: center;
+    background-color: rgb(38, 38, 198);
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
+textarea{
+ width: 99.4%;
+ border-color: rgb(38, 38, 198);
+}
+p{
+    text-align: center;
+    background-color: rgb(38, 38, 198);
+    color: white;
+    margin-top: 2px;
+    padding: 10px;
+    font-size: 30px;
+}
